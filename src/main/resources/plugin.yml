@@ -1,0 +1,5 @@
+name: Ore-Generator
+version: 1.0
+main: me.antja03.oregenerator.Main
+api-version: 1.13
+description: Spice up the games cobblestone generators.

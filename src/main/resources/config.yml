@@ -1,0 +1,10 @@
+#The chance that an ore generates instead of cobblestone
+ore_chance: 30
+
+#The chance for each different ore to generate
+coal_chance: 50
+iron_chance: 21
+gold_chance: 12
+redstone_chance: 9
+diamond_chance: 4
+emerald_chance: 2
